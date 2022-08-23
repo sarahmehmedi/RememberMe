@@ -18,7 +18,7 @@ Test out the flow
    
    ![Issuer_Flow_2](./images/Issuer_Flow_2.png)
  
-   ![Issuer_Flow_3](./images/Issuer_Flow_3.png)
+   ![Issuer_Flow_3](./images/Issuer_Flow_3.jpeg)
 
 ### 2: Create Verifier - Discover Account Recovery
    
@@ -30,6 +30,6 @@ Create the verifier
 
 And test the flow
 
-   ![Verifier_Flow_1](./images/Verifier_Flow_1.png)
+   ![Verifier_Flow_1](./images/Verify_Flow_1.png)
    
-   ![Verifier_Flow_2](./images/Verifier_Flow_2.png)
+   ![Verifier_Flow_2](./images/Verify_Flow_2.jpeg)
