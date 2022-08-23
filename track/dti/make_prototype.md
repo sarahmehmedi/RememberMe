@@ -33,3 +33,21 @@ And test the flow
    ![Verifier_Flow_1](./images/Verify_Flow_1.png)
    
    ![Verifier_Flow_2](./images/Verify_Flow_2.jpeg)
+   
+## Example
+
+Given user has registered their Driver's License with issuer
+
+User goes to Forgot Password Flow
+
+   ![web-forgot-1](./images/web-forgot-1.png)
+   
+User scans from ConnectMe app on phone (any digital wallet) and shares
+
+   ![Verifier_Flow_2](./images/Verify_Flow_2.jpeg)
+   
+User authenticates and sent to reset password flow
+
+   ![web-forgot-2](./images/web-forgot-2.png)
+
+
