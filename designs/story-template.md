@@ -25,7 +25,9 @@
 1. This scenario leverages a fictitious company called, _Acme Enterprise_. The <img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise logo is borrowed from [Katie Wickens](https://steins_kake.artstation.com/projects/ebqgb), a graphics designer.
  
 ## Business Challenge
->Template Instructions: Briefly describe the business challenge address by this use case story.
+The Account Recovery process is a common target for fraudsters. If the process is too simple, then it will quickly result in an account take-over. At the same time, it is a common pain point for legitimate customers. Asking customers to enter lot of data is error prone and can lead to a frustrating experience, as can requiring them to go through numberous steps just to regain access to their account. 
+
+Digital wallets are starting to gain acceptance. The Department of Motor Vehicles (DMV) in some states already allow the creation of digital driver's licenses. Imagine a time where a user has already created a digital driver's license which they can now use to effortlessly recover their account.
  
 ### Concept
 >Template Instructions: Briefly describe how this use case applies digit trust technology to the business challenge. 
