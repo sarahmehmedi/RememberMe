@@ -63,9 +63,9 @@ The issuer which is DMV in our cases issues the verifiable Digital credential, t
  
 | Actor | Role | Goals | Details |
 | --- | --- | --- | --- |
-| <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier |  |  |
-|  <img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise | Issuer |  |  |
-| <img src="./images/persona/Angelica.png" width="40" height="40"> Angelica | Consumer |  |  |
+| <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier | Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. |  |
+|  <img src="./images/persona/DMV.jpg" width="50" height="40">  | Issuer | Issue the verifiable credential which is nothing but license for the customer. |  |
+| <img src="./images/persona/JohnyCustomer.jpg" width="40" height="40"> Johny | Consumer | Customer will accept the credential from the issuer and share it with the Verifier to be identified during the account recovery.  |  |
  
 ## Story
 >Template Instructions: Using the sample persona images in the /images folder, describe the steps that are involved in the interactive use case story. Refer to ./HELP.md#digital-trust-use-cases for example usage.
