@@ -1,9 +1,9 @@
-# Use Case Story Title
+# Account Retrieval Story
 
 >NOTE: Update title and remove all Template Instructions.
  
 #### Table of Contents
-- [Use Case Story Title](#use-case-story-title) 
+- [Account Retrieval](#use-case-story-title) 
       - [Table of Contents](#table-of-contents)
   - [Acknowledgements](#acknowledgements)
   - [Business Challenge](#business-challenge)
@@ -70,7 +70,7 @@ Discover (Verifier) - This is Discover, we use a customer’s digital driver's l
 | --- | --- | --- | --- |
 | <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier | Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. |  |
 |  <img src="./images/persona/DMV.jpg" width="50" height="40">  | Issuer | Issue the verifiable credential which is nothing but license for the customer. |  |
-| <img src="./images/persona/johnny.jpg" width="40" height="40"> Johny | Consumer | Customer will accept the credential from the issuer and share it with the Verifier to be identified during the account recovery.  |  |
+| <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny | Consumer | Customer will accept the credential from the issuer and share it with the Verifier to be identified during the account recovery.  |  |
  
 ## Story
 >Template Instructions: Using the sample persona images in the /images folder, describe the steps that are involved in the interactive use case story. Refer to ./HELP.md#digital-trust-use-cases for example usage.
@@ -82,13 +82,49 @@ Discover (Verifier) - This is Discover, we use a customer’s digital driver's l
 >Template Instructions: Using the sample persona images in the /images folder, describe the steps od the use case story as they relate to the UML diagram. Refer to ./HELP.md#digital-trust-use-cases for example usage. If desired, a single diagram can be used instead of multiple steps. 
  
 ### Step 1
-<img src="./images/persona/acme-logo.png" width="50" height="40"> Acme Enterprise and <img src="./images/persona/discover_logo.png" width="60" height="60"> register their DIDs.
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny Customer completes registration for an account with <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover
  
 ![step1](./images/uml/step1-diagram.png)
  
 ### Step 2
  
-<img src="./images/persona/discover_logo.png" width="60" height="60"> challenges <img src="./images/persona/Angelica.png" width="50" height="50"> Angelica for a credential.
+After login, <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to set up a digital driver's license with  <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV
  
 ![step2](./images/uml/step2-diagram.png)
  
+### Step 3
+
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny set up the digital driver’s license through the <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV website and his driver’s license is saved to his digital wallet.
+
+
+![step2](./images/uml/step2-diagram.png)
+
+### Step 4
+
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny forgets his login information for his <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover account and decides to go through the forgot password flow.
+
+![step2](./images/uml/step2-diagram.png)
+
+
+### Step 5
+
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to scan a QR code with his digital wallet app (ConnectMe) to send his digital drivers license details to <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover
+
+![step2](./images/uml/step2-diagram.png)
+
+### Step 6
+
+<img src="./images/persona/discover_logo.png" width="60" height="60"> Discover retrieves these digital attributes from ConnectMe and proceeds to verify on the backend that the information matches an account
+
+![step2](./images/uml/step2-diagram.png)
+
+
+### Step 7 
+
+<img src="./images/persona/discover_logo.png" width="60" height="60"> Discover matches the digital credentials with an account and <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is sent to reset his password - he is now a happy customer again
+
+![step2](./images/uml/step2-diagram.png)
+
+
+
+
