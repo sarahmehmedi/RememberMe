@@ -33,8 +33,6 @@ Digital wallets are starting to gain acceptance. The Department of Motor Vehicle
 The issuer which is DMV in our cases issues the verifiable Digital credential, the license for the customer. The credentials will be stored in the Digital wallet for the customer. During the account recovery process, Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public utility. 
  
 ### Approach
->Template Instructions: Describe the end to end interactions of the stakeholders in the trust triangle pertinent to this use case story.
-
 ![trust-triangle](./images/misc/triangle.png)
 
 Johnny Customer (Owner/Holder) - This is a customer that has registered an account with Discover and the DMV. They hold a Digital key in their Digital wallet that contains their driver’s license information.
