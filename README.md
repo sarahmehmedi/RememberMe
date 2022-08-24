@@ -73,9 +73,9 @@ Our team members came together because we wanted to find a solution for users th
  
 | Name | Business Unit |
 | --- | --- |
-| [Mark Creamer](mailto:markcreamer@discover.com) | ??? |
-| [Sarah Mehmedi](mailto:sarahmehmedi@discover.com) | ??? |
-| [Jagatheeswari Ganesan](mailto:jagatheeswariganesan@discover.com) | ??? |
-| [Rajveer Goteti](mailto:rajveergoteti@discover.com) | ??? |
+| [Mark Creamer](mailto:markcreamer@discover.com) | BT |
+| [Sarah Mehmedi](mailto:sarahmehmedi@discover.com) | BT |
+| [Jagatheeswari Ganesan](mailto:jagatheeswariganesan@discover.com) | BT |
+| [Rajveer Goteti](mailto:rajveergoteti@discover.com) | BT |
 
 
