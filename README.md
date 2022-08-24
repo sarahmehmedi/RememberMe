@@ -13,7 +13,7 @@ Remember to:
 
 ```
  
-# Project Name
+# Remember Me
 ```
 Template Instructions: Replace above "Project Name" with Participating Team Project Name which is different from the Team Name.
 ```
@@ -29,7 +29,7 @@ Event Track should have one of the following values: "Hack the Code" or "Digital
 | --- | --- |
 | Project Team Name | xxxxxxxx |
 | Project Name | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Event Track | Digital Trust Ideation |
  
 ## Use Case Abstract
 ```
@@ -54,7 +54,7 @@ WARNING: Judges will stop listening to Pitch Video after the 2 minute mark so do
 | Requirement | Deliverable |
 | --- | --- |
 | Use Case | [Story](./hackproject/usecase.md) |
-| Design Thinking Miro Board | [team-name-whiteboard](miro.url) |
+| Design Thinking Miro Board | [RememberMe Miro](https://miro.com/app/board/uXjVPdzMVh0=/?share_link_id=784470130398) |
 | Design Thinking Playback Brief | [Playback Presentation](./presentations/playback-brief.ppt)|
 | Concept Playback Video | [Video URL]()|
 | Concept Show-n-Tell Video | [Video URL]() |
@@ -68,14 +68,14 @@ Template Instructions: Optional Section. If the team has documented reasons for 
 1. [ADR 01](./decisions/adr-01.md)
 
 ## Team Information
-```
-Template Instructions: Provide a brief description of your team, how it came to be, etc.
-```
 
-Our team members came together because ...
+Our team members came together because we wanted to find a solution for users that always forget their account login information.
  
 | Name | Business Unit |
 | --- | --- |
-| [Name](mailto:xxxx@discover.com) | ??? |
-| [Name](mailto:xxxx@discover.com) | ??? |
+| [Mark Creamer](mailto:markcreamer@discover.com) | ??? |
+| [Sarah Mehmedi](mailto:sarahmehmedi@discover.com) | ??? |
+| [Jagatheeswari Ganesan](mailto:jagatheeswariganesan@discover.com) | ??? |
+| [Rajveer Goteti](mailto:rajveergoteti@discover.com) | ??? |
+
 
