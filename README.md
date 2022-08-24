@@ -27,8 +27,8 @@ Event Track should have one of the following values: "Hack the Code" or "Digital
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
-| Project Name | xxxxxxxx |
+| Project Team Name | Remember Me |
+| Project Name | Remember Me |
 | Event Track | Digital Trust Ideation |
  
 ## Use Case Abstract
