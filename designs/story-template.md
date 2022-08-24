@@ -1,4 +1,4 @@
-# Account Retrieval
+# Account Recovery
 
 >NOTE: Update title and remove all Template Instructions.
  
