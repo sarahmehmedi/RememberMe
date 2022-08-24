@@ -112,7 +112,5 @@ After login, <img src="./images/persona/johnny.jpg" width="40" height="40"> John
  
 ## Demo Workflow
 
->Template Instructions: Using the sample persona images in the /images folder, describe the steps od the use case story as they relate to the UML diagram. Refer to ./HELP.md#digital-trust-use-cases for example usage. If desired, a single diagram can be used instead of multiple steps. 
- 
-TODO add diagram
+![uml-diagram](./images/uml/UML-Diagram.png)
 
