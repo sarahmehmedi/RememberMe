@@ -35,7 +35,14 @@ The issuer which is DMV in our cases issues the verifiable Digital credential, t
 ### Approach
 >Template Instructions: Describe the end to end interactions of the stakeholders in the trust triangle pertinent to this use case story.
 
-![trust-triangle](./images/misc/trust-triangle.png)
+![trust-triangle](./images/misc/triangle.png)
+
+Johnny Customer (Owner/Holder) - This is a customer that has registered an account with Discover and the DMV. They hold a Digital key in their Digital wallet that contains their driver’s license information.
+
+DMV (Issuer) - This issuer is a DMV that has received Johnny Customer’s information to validate that they are who they say they are, and the issuer has issued a digital driver's license for them to be stored in their digital wallet for them to use.
+
+Discover (Verifier) - This is Discover, we use a customer’s digital driver's license to link their identity to their account, since it comes from a credible issuer, we trust that information and let the user recover their account.
+
  
 ## Vernacular
 
