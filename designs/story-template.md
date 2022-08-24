@@ -1,4 +1,4 @@
-# Account Retrieval Story
+# Account Retrieval
 
 >NOTE: Update title and remove all Template Instructions.
  
@@ -73,30 +73,29 @@ Discover (Verifier) - This is Discover, we use a customer’s digital driver's l
 | <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny | Consumer | Customer will accept the credential from the issuer and share it with the Verifier to be identified during the account recovery.  |  |
  
 ## Story
->Template Instructions: Using the sample persona images in the /images folder, describe the steps that are involved in the interactive use case story. Refer to ./HELP.md#digital-trust-use-cases for example usage.
- 
+
 ### Step 1
 <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny Customer completes registration for an account with <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover
  
  
 ### Step 2
  
-After login, <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to set up a digital driver's license with  <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV
+After login, <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to set up a digital driver's license with <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV
  
  
 ### Step 3
 
-<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny set up the digital driver’s license through the <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV website and his driver’s license is saved to his digital wallet.
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny set up the digital driver’s license through the <img src="./images/persona/DMV.jpg" width="50" height="40"> DMV website and his driver’s license is saved to his digital wallet (ConnectMe)
 
 
 ### Step 4
 
-<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny forgets his login information for his <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover account and decides to go through the forgot password flow.
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny forgets his login information for his <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover account and decides to go through the forgot password flow
 
 
 ### Step 5
 
-<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to scan a QR code with his digital wallet app (ConnectMe) to send his digital drivers license details to <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover
+<img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny is prompted to scan a QR code with his digital wallet app (ConnectMe) to send his digital drivers license details to <img src="./images/persona/discover_logo.png" width="60" height="60"> Discover for verification
 
 
 ### Step 6
