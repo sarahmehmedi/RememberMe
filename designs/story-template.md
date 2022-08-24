@@ -30,7 +30,7 @@ The Account Recovery process is a common target for fraudsters. If the process i
 Digital wallets are starting to gain acceptance. The Department of Motor Vehicles (DMV) in some states already allow the creation of digital driver's licenses. Imagine a time where a user has already created a digital driver's license which they can now use to effortlessly recover their account.
  
 ### Concept
->Template Instructions: Briefly describe how this use case applies digit trust technology to the business challenge. 
+The issuer which is DMV in our cases issues the verifiable Digital credential, the license for the customer. The credentials will be stored in the Digital wallet for the customer. During the account recovery process, Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public utility. 
  
 ### Approach
 >Template Instructions: Describe the end to end interactions of the stakeholders in the trust triangle pertinent to this use case story.
