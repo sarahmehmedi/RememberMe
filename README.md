@@ -15,11 +15,6 @@ Template Instructions: Replace above "Project Name" with Participating Team Proj
 ```
 
 ## Project Details
-```
-Template Instructions: Provide your team specific details but.
-
-Event Track should have one of the following values: "Hack the Code" or "Digital Trust Ideation"
-```
 
 | Event Attribute| Description |
 | --- | --- |
