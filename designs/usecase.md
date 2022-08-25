@@ -43,29 +43,22 @@ Discover (Verifier) - This is Discover, we use a customer’s digital driver's l
 
  
 ## Vernacular
-
->Template Instructions: List and describe any terms that will be used in the story and referenced in the UML diagrams. The current list provides a a sample starter list. 
  
 1. **Digital Wallet**: A financial transaction application that runs on multiple device modalities (mobile, computer). These applications store, manage, and present payment and identity instruments.
-3. **Merchant**: An entity involved in e-commerce trade.
-4. **Checkout Platform**: An e-Commerce Payment Platform (web application) used by merchants to manage the consumer experience and the end-to-end processing of e-commerce transactions.
-5. **Credential Verifier Utility**: A merchant would augment their Checkout Platform with support by a vendor solution that allows consumers to: (a) consent to a digital authentication challenge; (b) present a digital credential for identity verification.
-6. **Issuer**: A entity that makes assertions about information and delivers digital credentials containing attestations about those assertions.
-7. **Credential Generator**: A software component used by the Issuer to manage the generation of new digital credentials.
-8. **Credential Issuer Utility**: An Issuer would augment their Credential Generator with support by a vendor solution that allows Issuers to publish a digital credential to consumers.
-9. **Public Registry**: A public utility that allows for the registration and discovery of Decentralized Identifiers (DIDs).
+2. **Account Recovery Process**: Discover Web/Mobile flow which kickstarts when the Customer Forgot Password/Forgot UserId/Forgot Both.
+3. **Issuer**: A entity that makes assertions about information and delivers digital credentials containing attestations about those assertions.
+4. **Credential Generator**: A software component used by the Issuer to manage the generation of new digital credentials.
+5. **Credential Issuer Utility**: An Issuer would augment their Credential Generator with support by a vendor solution that allows Issuers to publish a digital credential to consumers.
+6. **Public Registry**: A public utility that allows for the registration and discovery of Decentralized Identifiers (DIDs).
+6. **Sovrin Network** : The first public-permissioned blockchain designed as a global public utility exclusively to support self-sovereign identity and verifiable claims.
  
 ## Assumptions
-
->Template Instructions: List any assumptions to be considered in this use case story.
  
 1. Use case assumes knowledge of the W3C Standards and open source software that supports the concepts outlined by the [Trust over IP Foundation](https://trustoverip.org/toip-model/).
 2. Credential Issuer and Verifier Utility solutions are readily available from 3rd party vendors.
  
 ## Persona
 
->Template Instructions: Using the sample persona images in the /images folder, describe the roles of the entities involved in this use case story. The current list provides a a sample starter list. Refer to ./HELP.md#digital-trust-use-cases for example usage.
- 
 | Actor | Role | Goals | Details |
 | --- | --- | --- | --- |
 | <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier | Verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. | Ensure that the customers are able to go through the account recovery process without providing their individual details and authenticating the customer with the digital credential provided  |
