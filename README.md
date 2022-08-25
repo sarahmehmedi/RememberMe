@@ -3,10 +3,6 @@ Template Instructions
  
 Welcome to the Discover TruCreds Digital Trust Hackathon.
 
-This GitHub Repo represents a template for your project. It represents the central repository of all artifacts produced by your team. This repository will be referenced durning the judging activity and after the event has completed.
-
-Please follow the Template Instructions herein to update this README.
-
 Remember to:
   a) Remove all Template Instructions once complete
   b) Add the mandatory GitHub Topic: `runway-t22-3`
@@ -32,9 +28,8 @@ Event Track should have one of the following values: "Hack the Code" or "Digital
 | Event Track | Digital Trust Ideation |
  
 ## Use Case Abstract
-```
-Template Instructions: Provide a brief description of the use case tackled by the team.
-```
+
+When a user forgets their account information, they need to go through the reset flow, which can be very time consuming and not something that makes our customers happy. If the user has set up a digital driver's license with their DMV and has it saved to their digital wallet, they can reset their account more easily.
 
 ## Project Artifacts
 ```
