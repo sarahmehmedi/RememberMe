@@ -30,7 +30,7 @@ The Account Recovery process is a common target for fraudsters. If the process i
 Digital wallets are starting to gain acceptance. The Department of Motor Vehicles (DMV) in some states already allow the creation of digital driver's licenses. Imagine a time where a user has already created a digital driver's license which they can now use to effortlessly recover their account.
  
 ### Concept
-The issuer which is DMV in our cases issues the verifiable Digital credential, the license for the customer. The credentials will be stored in the Digital wallet for the customer. During the account recovery process, Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public utility. 
+The issuer which is DMV in our cases issues the verifiable Digital credential, the license for the customer. The credentials will be stored in the Digital wallet for the customer. During the account recovery process, Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. 
  
 ### Approach
 ![trust-triangle](./images/misc/triangle.png)
@@ -68,9 +68,9 @@ Discover (Verifier) - This is Discover, we use a customer’s digital driver's l
  
 | Actor | Role | Goals | Details |
 | --- | --- | --- | --- |
-| <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier | Discover would verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. |  |
-|  <img src="./images/persona/DMV.jpg" width="50" height="40">  | Issuer | Issue the verifiable credential which is nothing but license for the customer. |  |
-| <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny | Consumer | Customer will accept the credential from the issuer and share it with the Verifier to be identified during the account recovery.  |  |
+| <img src="./images/persona/discover_logo.png" width="60" height="60"> | Verifier | Verify the Credentials that are shared by the customer along with the public key of the issuer that will be available in the Block chain or any other public registry. | Ensure that the customers are able to go through the account recovery process without providing their individual details and authenticating the customer with the digital credential provided  |
+|  <img src="./images/persona/DMV.jpg" width="50" height="40">  | Issuer | Issue the verifiable credential which is nothing but Driver's License for the customer. | Capabale of providing the Driver's license as a digital credential with the help of the Digital trust vendors  |
+| <img src="./images/persona/johnny.jpg" width="40" height="40"> Johnny | Consumer | Accept the credential from the issuer and Share it with the Verifier to be authenticated during the account recovery.  | Registered Customer of Discover who has the ability to hold the Driver's license as a Digital crendential in the Digital wallet and also have the ability to access the Discover account recovery process and provide the credential when promped. |
  
 ## Story
 
